@@ -49,7 +49,7 @@
 
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,python,c,js,dart" />
+<img src="https://skillicons.dev/icons?i=java,python,js,dart" />
 </a>
 </p>
 
@@ -57,7 +57,7 @@
 
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,php" />
 </a>
 </p>
 
@@ -65,7 +65,7 @@
 
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=flask,django,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=flask,mysql,java" />
 </a>
 </p>
 
@@ -73,7 +73,7 @@
 
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=opencv,git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=opencv,git,github,vscode,figma" />
 </a>
 </p>
 
