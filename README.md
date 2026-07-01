@@ -49,7 +49,7 @@
 
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,python,js,dart" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js,dart" />
 </a>
 </p>
 
