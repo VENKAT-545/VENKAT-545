@@ -20,9 +20,9 @@
 
 💻 Passionate about Java Full Stack Development & Software Engineering
 
-🤖 Interested in Artificial Intelligence & Machine Learning
+🤖 Interested in Artificial Intelligence & Machine Learning with Software Development
 
-🌱 Currently learning Spring Boot, React and Data Structures & Algorithms
+🌱 Currently learning Spring Boot, Java ,Python and Data Structures & Algorithms
 
 🚀 Building real-world AI and Web Development Projects
 
@@ -65,7 +65,7 @@
 
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=flask,mysql,java" />
+<img src="https://skillicons.dev/icons?i=flask,mysql,java,springboot" />
 </a>
 </p>
 
@@ -73,7 +73,7 @@
 
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=opencv,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=claude,opencv,git,github,vscode,figma" />
 </a>
 </p>
 
