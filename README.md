@@ -116,20 +116,19 @@ https://venkat-545.github.io/portfolio/
 ✔ Open Source Contributions
 
 ---
-
-## 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VENKAT-545&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=VENKAT-545&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VENKAT-545&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VENKAT-545&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -139,26 +138,77 @@ https://venkat-545.github.io/portfolio/
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VENKAT-545&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VENKAT-545&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VENKAT-545&theme=tokyonight&column=7&no-bg=true&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VENKAT-545&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
 
 </div>
 
 ---
 
+# 📈 GitHub Summary Cards
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VENKAT-545&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VENKAT-545&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VENKAT-545&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VENKAT-545&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VENKAT-545&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 📅 GitHub Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/0891b2/VENKAT-545" alt="GitHub Contribution Chart"/>
+
+</div>
+
+---
+
+# 📌 Profile Highlights
+
+<div align="center">
+
+| ⭐ Stars | 🍴 Forks | 👨‍💻 Repositories | 👥 Followers |
+|:-------:|:--------:|:----------------:|:------------:|
+| Dynamic | Dynamic | Dynamic | Dynamic |
+
+</div>
+
+---
 ## 📜 Certifications
 
 🏅 Generative AI Fundamentals
