@@ -682,7 +682,53 @@ AI-based forensic system that identifies scanner devices from scanned document i
 </div>
 
 ---
+# 🧩 Soft Skills
 
+<div align="center">
+
+✔ Analytical Thinking
+
+✔ Critical Thinking
+
+✔ Team Collaboration
+
+✔ Communication
+
+✔ Leadership
+
+✔ Adaptability
+
+✔ Fast Learner
+
+✔ Decision Making
+
+✔ Time Management
+
+✔ Creativity
+
+</div>
+
+---
+
+# 🎮 Outside Coding
+
+<div align="center">
+
+📖 Reading Technology Articles
+
+🎨 UI Design Practice
+
+🌍 Exploring AI Tools
+
+🧩 Solving Coding Challenges
+
+✈️ Building Side Projects
+
+☕ Learning New Technologies
+
+</div>
+
+---
 
 # 🎨 Favorite Technologies
 
@@ -884,6 +930,15 @@ If you like my projects,
 </div>
 
 ---
+# ⚡ Technologies I Explore
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,spring,react,nodejs,express,mongodb,mysql,docker,aws"/>
+
+</div>
+
+---
 
 # 🎯 Long-Term Vision
 
@@ -929,155 +984,3 @@ If you like my projects,
 
 ---
 
-# 🧠 Competitive Programming Journey
-
-```text
-Start Learning
-      │
-      ▼
-Basic Problems
-      │
-      ▼
-Arrays & Strings
-      │
-      ▼
-Recursion
-      │
-      ▼
-Data Structures
-      │
-      ▼
-Algorithms
-      │
-      ▼
-Competitive Programming
-```
-
----
-
-# 📈 GitHub Contribution Goals
-
-<div align="center">
-
-| Goal | Target |
-|:-----|:------:|
-| ⭐ GitHub Stars | 500+ |
-| 📂 Repositories | 50+ |
-| 💻 Projects | 20+ |
-| 🔥 Contributions | 1000+ |
-| 🤝 Open Source PRs | 100+ |
-| 👥 Followers | 1000+ |
-
-</div>
-
----
-
-# 🌍 Open Source Roadmap
-
-```text
-Learn Git
-     │
-     ▼
-Explore Projects
-     │
-     ▼
-Fix Small Issues
-     │
-     ▼
-Create Pull Requests
-     │
-     ▼
-Become Contributor
-     │
-     ▼
-Maintain Projects
-```
-
----
-
-# ⚡ Technologies I Explore
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,spring,react,nodejs,express,mongodb,mysql,docker,aws"/>
-
-</div>
-
----
-
-# 🧩 Soft Skills
-
-<div align="center">
-
-✔ Analytical Thinking
-
-✔ Critical Thinking
-
-✔ Team Collaboration
-
-✔ Communication
-
-✔ Leadership
-
-✔ Adaptability
-
-✔ Fast Learner
-
-✔ Decision Making
-
-✔ Time Management
-
-✔ Creativity
-
-</div>
-
----
-
-# 📚 Learning Philosophy
-
-> **Learn ➜ Build ➜ Fail ➜ Improve ➜ Repeat**
-
----
-
-# 🏅 Professional Values
-
-- 💙 Integrity
-- 🚀 Innovation
-- 🤝 Collaboration
-- 🎯 Excellence
-- 📚 Continuous Learning
-- 🌍 Responsibility
-
----
-
-# 🎮 Outside Coding
-
-<div align="center">
-
-📖 Reading Technology Articles
-
-🎨 UI Design Practice
-
-🌍 Exploring AI Tools
-
-🧩 Solving Coding Challenges
-
-✈️ Building Side Projects
-
-☕ Learning New Technologies
-
-</div>
-
----
-
-# 🌟 Thank You
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2563eb,100:7c3aed&section=footer&text=See%20You%20Again!&fontColor=ffffff&fontSize=40"/>
-
-### ⭐ If you like my work, don't forget to Star my repositories ⭐
-
-</div>
-
----
