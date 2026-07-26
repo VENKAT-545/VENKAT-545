@@ -1,3 +1,15 @@
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Venkatajalapathi S
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Final+Year+Computer+Science+Engineering+Student;Java+Full+Stack+Developer+☕;AI+%26+Machine+Learning+Enthusiast+🤖;Building+Scalable+Web+Applications+🌐;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&animation=fadeIn&fontAlignY=35" alt="Header" />
+</p>
+
 ---
 
 # 🏅 Professional Highlights
