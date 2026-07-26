@@ -534,7 +534,11 @@ AI-based forensic system that identifies scanner devices from scanned document i
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VENKAT-545/VENKAT-545/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VENKAT-545/VENKAT-545/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VENKAT-545/VENKAT-545/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/VENKAT-545/VENKAT-545/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
