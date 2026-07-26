@@ -86,19 +86,23 @@ Python • OpenCV • Machine Learning
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VENKAT-545&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VENKAT-545&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VENKAT-545&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VENKAT-545&layout=compact&theme=github_dark"/>
+
+</div>
 </p>
 
 ---
 
 # 🔥 GitHub Streak
+<p><div align="center">
 
-<p align="center">
+<img src="https://streak-stats.demolab.com?user=VENKAT-545&theme=github-dark-blue&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=VENKAT-545&theme=tokyonight&hide_border=true"/>
+</div>
 
 </p>
 
@@ -117,8 +121,11 @@ Python • OpenCV • Machine Learning
 # 🏆 GitHub Trophy
 
 <p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VENKAT-545&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VENKAT-545&theme=github-compact&hide_border=true"/>
+
+</div>
 
 </p>
 
