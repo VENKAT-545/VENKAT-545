@@ -32,7 +32,7 @@
 
 <tr>
 
-<td width="58%">
+<td width="50%">
 
 ### 👨‍💻 Software Engineering Student
 
@@ -72,7 +72,7 @@ Motivated Computer Science Engineering student with strong analytical thinking, 
 
 <td align="center">
 
-<img width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img width="640" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 <br><br>
 
@@ -98,7 +98,7 @@ Motivated Computer Science Engineering student with strong analytical thinking, 
 
 Computer Science & Engineering
 
-RP Sarathy Institute of Technology
+R P Sarathy Institute of Technology
 
 📅 2023 – 2027
 
@@ -112,11 +112,11 @@ RP Sarathy Institute of Technology
 
 <td>
 
-🏫 Higher Secondary Education
+🏫** Higher Secondary Education**
 
 Government Higher Secondary School
 
-Krishnagiri
+KRP DAM,Krishnagiri
 
 📅 2021 – 2023
 
@@ -136,7 +136,7 @@ Krishnagiri
 
 <tr>
 
-<td width="25%" align="center">
+<td width="50%" align="center">
 
 🤖
 
