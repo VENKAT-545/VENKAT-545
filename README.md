@@ -121,42 +121,37 @@ https://venkat-545.github.io/portfolio/
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VENKAT-545&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VENKAT-545&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VENKAT-545&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VENKAT-545&layout=compact&theme=github_dark"/>
 
 </div>
-
----
 
 ## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=VENKAT-545&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=VENKAT-545&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
 ## 📈 Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VENKAT-545&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VENKAT-545&theme=github-compact&hide_border=true"/>
 
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VENKAT-545&theme=tokyonight&column=7&no-bg=true&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VENKAT-545&theme=algolia&row=1&column=7&margin-w=15&margin-h=15"/>
 
 </div>
-
 ---
 
 ## 📜 Certifications
