@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=6000&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Final+Year+Computer+Science+Engineering+Student;Software+Engineering+%7C+Java+Full+Stack+Developer;Artificial+Intelligence+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications+🚀;Always+Learning+New+Technologies+💙" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=6000&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Final+Year+Computer+Science+Engineering+Student;Software+Engineering+%7C+Java+Full+Stack+Developer;Artificial+Intelligence+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications+🚀+Always+Learning+New+Technologies+💙" />
 
 </div>
 
@@ -507,13 +507,17 @@ AI-based forensic system that identifies scanner devices from scanned document i
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophy
 
+<p align="center">
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VENKAT-545&theme=algolia&row=1&column=7&margin-w=15&margin-h=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VENKAT-545&theme=github-compact&hide_border=true"/>
 
 </div>
+
+</p>
+
 ---
 
 # 📈 Contribution Graph
@@ -590,73 +594,6 @@ AI-based forensic system that identifies scanner devices from scanned document i
 <img src="https://skillicons.dev/icons?i=windows,ubuntu,vscode,git,github,figma,postman,pycharm,eclipse,idea"/>
 
 </div>
-
----
-
-# 🎯 My Development Principles
-
-<table>
-
-<tr>
-
-<td>
-
-✅ Clean Code
-
-</td>
-
-<td>
-
-✅ Problem Solving
-
-</td>
-
-<td>
-
-✅ Continuous Learning
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✅ User-Centric Development
-
-</td>
-
-<td>
-
-✅ Team Collaboration
-
-</td>
-
-<td>
-
-✅ Scalable Solutions
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📅 2026 Goals
-
-- 🚀 Get Software Engineer Role
-- ☕ Master Java Full Stack Development
-- 🌱 Build 20+ High Quality Projects
-- ⭐ Reach 500+ GitHub Contributions
-- 🤝 Contribute to Open Source
-- 📚 Solve 500+ DSA Problems
-- ☁ Learn AWS Cloud
-- 📱 Build Full Stack Applications
-- 🤖 Develop AI Powered Products
-- 💼 Become Industry Ready
 
 ---
 
@@ -824,7 +761,6 @@ AI-based forensic system that identifies scanner devices from scanned document i
 
 - 🌍 Build products used by millions
 - 🤖 Develop AI-powered applications
-- ☁ Become a Cloud Engineer
 - 💼 Work at a leading product-based company
 - 🌟 Contribute to Open Source
 - 👨‍🏫 Mentor aspiring developers
@@ -943,7 +879,7 @@ If you like my projects,
 
 ### 💙 *"Dream Big • Code Smart • Never Stop Learning"* 💙
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+🚀;Let's+Build+Something+Amazing+Together!; Always+Learning+Always Growing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+🚀;Let's+Build+Something+Amazing+Together!;Always+Learning+Always+Growing!!"/>
 
 ### ⭐ Don't forget to Follow my GitHub ⭐
 
