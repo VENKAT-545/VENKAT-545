@@ -514,7 +514,6 @@ AI-based forensic system that identifies scanner devices from scanned document i
 <img src="https://github-profile-trophy.vercel.app/?username=VENKAT-545&theme=algolia&row=1&column=7&margin-w=15&margin-h=15"/>
 
 </div>
-
 ---
 
 # 📈 Contribution Graph
@@ -801,6 +800,36 @@ AI-based forensic system that identifies scanner devices from scanned document i
 </a>
 
 </div>
+---
+# 🌟 Technologies I Want To Master
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,nextjs,docker,kubernetes,aws,azure,mongodb"/>
+
+</div>
+
+---
+# ⚡ Technologies I Explore
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,spring,react,nodejs,express,mongodb,mysql,docker,aws"/>
+
+</div>
+
+---
+
+# 🎯 Long-Term Vision
+
+- 🌍 Build products used by millions
+- 🤖 Develop AI-powered applications
+- ☁ Become a Cloud Engineer
+- 💼 Work at a leading product-based company
+- 🌟 Contribute to Open Source
+- 👨‍🏫 Mentor aspiring developers
+- 🚀 Launch my own SaaS products
+- 📈 Keep learning every single day
 
 ---
 
@@ -914,73 +943,9 @@ If you like my projects,
 
 ### 💙 *"Dream Big • Code Smart • Never Stop Learning"* 💙
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+🚀;Let's+Build+Something+Amazing+Together!"/>
-
-</div>
-
----
-
-
-# 🌟 Technologies I Want To Master
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,nextjs,docker,kubernetes,aws,azure,mongodb"/>
-
-</div>
-
----
-# ⚡ Technologies I Explore
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,spring,react,nodejs,express,mongodb,mysql,docker,aws"/>
-
-</div>
-
----
-
-# 🎯 Long-Term Vision
-
-- 🌍 Build products used by millions
-- 🤖 Develop AI-powered applications
-- ☁ Become a Cloud Engineer
-- 💼 Work at a leading product-based company
-- 🌟 Contribute to Open Source
-- 👨‍🏫 Mentor aspiring developers
-- 🚀 Launch my own SaaS products
-- 📈 Keep learning every single day
-
----
-
-# ❤️ Thank You
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:7c3aed&height=120&text=Happy%20Coding!&fontColor=ffffff&fontSize=35"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+🚀;Let's+Build+Something+Amazing+Together!; Always+Learning+Always Growing"/>
 
 ### ⭐ Don't forget to Follow my GitHub ⭐
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=38BDF8&center=true&width=700&lines=Thank+You+for+Visiting+My+Profile!;Let's+Build+Something+Amazing!;Always+Learning+•+Always+Growing+🚀"/>
-
 </div>
 ---
-# 🎯 Personal Strengths
-
-<div align="center">
-
-| 💪 Strength | ⭐ Level |
-|:------------|:--------:|
-| Problem Solving | ⭐⭐⭐⭐⭐ |
-| Teamwork | ⭐⭐⭐⭐⭐ |
-| Communication | ⭐⭐⭐⭐☆ |
-| Leadership | ⭐⭐⭐⭐☆ |
-| Adaptability | ⭐⭐⭐⭐⭐ |
-| Quick Learning | ⭐⭐⭐⭐⭐ |
-| Time Management | ⭐⭐⭐⭐☆ |
-| Creativity | ⭐⭐⭐⭐⭐ |
-
-</div>
-
----
-
