@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Final+Year+Computer+Science+Engineering+Student;Software+Engineering+%7C+Java+Full+Stack+Developer;Artificial+Intelligence+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications+🚀;Always+Learning+New+Technologies+💙" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=6000&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Final+Year+Computer+Science+Engineering+Student;Software+Engineering+%7C+Java+Full+Stack+Developer;Artificial+Intelligence+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications+🚀;Always+Learning+New+Technologies+💙" />
 
 </div>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,30:2563eb,60:7c3aed,100:38bdf8&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,30:2563eb,60:7c3aed,100:38bdf8&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38"/>
 
 </p>
 
@@ -120,7 +120,7 @@ Krishnagiri
 
 📅 2021 – 2023
 
-🎯 Percentage : **75.3%**
+🎯 Percentage : **75.16%**
 
 </td>
 
@@ -238,7 +238,7 @@ Krishnagiri
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,c,sql,dart"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,Mysql,dart"/>
 
 </p>
 
@@ -288,6 +288,19 @@ Krishnagiri
 
 <img src="https://img.shields.io/badge/Feature%20Extraction-red?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/System_Design-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/API_Development-10B981?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem_Solving-F97316?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Database_Design-9333EA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Clean_Code-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Object_Oriented_Programming-DC2626?style=for-the-badge"/>
+
+
 </p>
 
 ---
@@ -315,21 +328,6 @@ Krishnagiri
 <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github"/>
 
 </p>
-
----
-
-# 📊 Skill Progress
-
-| Skill | Progress |
-|--------|----------|
-| ☕ Java | ██████████░ 75% |
-| 🐍 Python | █████████░░ 65% |
-| 🌐 HTML/CSS | ██████████░ 70% |
-| ⚡ JavaScript | ████████░░ 60% |
-| 🗄 SQL | ████████░░ 80% |
-| 🤖 AI / ML | ████████░░ 80% |
-| 🚀 Spring Boot | ██████░░░░ 60% |
-| ⚛ React | █████░░░░░ 20% |
 
 ---
 
@@ -513,7 +511,7 @@ AI-based forensic system that identifies scanner devices from scanned document i
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VENKAT-545&theme=algolia&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VENKAT-545&theme=algolia&row=1&column=7&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -557,42 +555,40 @@ AI-based forensic system that identifies scanner devices from scanned document i
 </div>
 
 ---
-
-# 🧩 Development Workflow
+# 🌟 Areas of Interest
 
 <div align="center">
 
-```text
-💡 IDEA
-   │
-   ▼
-📋 PLANNING
-   │
-   ▼
-🎨 UI / UX DESIGN
-   │
-   ▼
-💻 DEVELOPMENT
-   │
-   ▼
-🧪 TESTING
-   │
-   ▼
-🚀 DEPLOYMENT
-   │
-   ▼
-📈 IMPROVEMENT
-```
+<img src="https://img.shields.io/badge/Software_Engineering-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java_Full_Stack-ED8B00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-10B981?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Web_Development-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Product_Development-F97316?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💻 Development Environment
+# 🚀 Tech I'm Excited About
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,ubuntu,vscode,git,github,figma,postman,stackoverflow"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,docker,aws,mysql,python,git,github"/>
+
+</div>
+---
+
+# 💻 My Development Environment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=windows,ubuntu,vscode,git,github,figma,postman,pycharm,eclipse,idea"/>
 
 </div>
 
@@ -687,43 +683,6 @@ AI-based forensic system that identifies scanner devices from scanned document i
 
 ---
 
-# 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-# ☕ Fun Code
-
-```java
-public class Life {
-
-    public static void main(String[] args) {
-
-        while(true){
-
-            Learn();
-
-            Build();
-
-            Debug();
-
-            Improve();
-
-            Repeat();
-
-        }
-
-    }
-
-}
-```
-
----
 
 # 🎨 Favorite Technologies
 
@@ -751,15 +710,6 @@ public class Life {
 
 ---
 
-# 💬 Developer Philosophy
-
-<div align="center">
-
-> **"Code with purpose. Learn with curiosity. Build with passion. Grow with consistency."**
-
-</div>
-
----
 # 🌐 Connect With Me
 
 <div align="center">
@@ -846,61 +796,6 @@ public class Life {
 
 ---
 
-# ⚡ Quick Facts
-
-<table>
-
-<tr>
-
-<td>🎓 Degree</td>
-
-<td>B.E Computer Science Engineering</td>
-
-</tr>
-
-<tr>
-
-<td>📅 Graduation</td>
-
-<td>2027</td>
-
-</tr>
-
-<tr>
-
-<td>💼 Looking For</td>
-
-<td>Software Engineer | Java Full Stack Developer</td>
-
-</tr>
-
-<tr>
-
-<td>🌍 Location</td>
-
-<td>Krishnagiri, Tamil Nadu, India</td>
-
-</tr>
-
-<tr>
-
-<td>💬 Ask Me About</td>
-
-<td>Java, Python, AI, Full Stack Development</td>
-
-</tr>
-
-<tr>
-
-<td>📧 Email</td>
-
-<td>venkatajalapathi03@gmail.com</td>
-
-</tr>
-
-</table>
-
----
 
 # 🤝 Open Source
 
@@ -949,6 +844,17 @@ If you like my projects,
 <img src="https://img.shields.io/github/last-commit/VENKAT-545/VENKAT-545?style=for-the-badge"/>
 
 </div>
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+## 💙
+
+### *"Every expert was once a beginner. Every professional was once a student. Keep learning. Keep building."*
+
+</div>
 
 ---
 
@@ -965,374 +871,9 @@ If you like my projects,
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+🚀;Let's+Build+Something+Amazing+Together!"/>
 
 </div>
-# 🚀 My Development Journey
-
-```text
-2023
-│
-├── 🎓 Started B.E Computer Science Engineering
-│
-├── 🌐 Learned HTML, CSS & JavaScript
-│
-├── 💻 Started Python Programming
-│
-▼
-2024
-│
-├── 🌍 Web Development Internship
-│
-├── 🚀 Built Responsive Websites
-│
-├── 📚 Started Database & Django
-│
-▼
-2025
-│
-├── 🎨 UI/UX Design Internship
-│
-├── 🤖 AI Internship
-│
-├── 🔍 Built TraceFinder
-│
-├── ✈️ Started Trip AI
-│
-▼
-2026
-│
-├── ☕ Java Full Stack Development
-├── 🌱 Spring Boot
-├── ⚛ React
-├── 🚀 Open Source
-└── 💼 Preparing for Software Engineer Role
-```
 
 ---
 
-# 💻 My Workspace
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=windows,ubuntu,vscode,git,github,figma,postman,pycharm,eclipse,idea"/>
-
-</div>
-
----
-
-# ⚡ Daily Routine
-
-```text
-🌅 Wake Up
-      │
-      ▼
-📚 Learn New Concepts
-      │
-      ▼
-💻 Code Projects
-      │
-      ▼
-🧩 Solve DSA Problems
-      │
-      ▼
-🤖 Explore AI
-      │
-      ▼
-🚀 Push to GitHub
-      │
-      ▼
-📖 Read Articles
-      │
-      ▼
-😴 Sleep
-```
-
----
-
-# 🎯 Career Roadmap
-
-<div align="center">
-
-| 🎯 Goal | Status |
-|:--------|:------:|
-| Java Programming | ✅ |
-| Python | ✅ |
-| HTML CSS JS | ✅ |
-| SQL | ✅ |
-| Flask | ✅ |
-| Git & GitHub | ✅ |
-| Machine Learning | ✅ |
-| Spring Boot | 🔄 |
-| React | 🔄 |
-| AWS | 🔄 |
-| Docker | ⏳ |
-| Kubernetes | ⏳ |
-
-</div>
-
----
-
-# 📖 Currently Reading
-
-<div align="center">
-
-📘 Clean Code
-
-📙 Head First Java
-
-📗 Spring Boot in Action
-
-📕 Designing Data Intensive Applications
-
-📒 System Design Basics
-
-</div>
-
----
-
-# 🌟 Areas of Interest
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Software_Engineering-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Java_Full_Stack-ED8B00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine_Learning-10B981?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Web_Development-0EA5E9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Product_Development-F97316?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🧠 Problem Solving
-
-<div align="center">
-
-```text
-Problem
-   │
-   ▼
-Understand
-   │
-   ▼
-Research
-   │
-   ▼
-Design
-   │
-   ▼
-Develop
-   │
-   ▼
-Test
-   │
-   ▼
-Deploy
-```
-
-</div>
-
----
-
-# 📦 Software Engineering Principles
-
-- ✅ Clean Architecture
-- ✅ SOLID Principles
-- ✅ Object-Oriented Programming
-- ✅ Modular Design
-- ✅ Code Reusability
-- ✅ Version Control
-- ✅ Scalable Development
-- ✅ Continuous Learning
-
----
-
-# 🚀 Tech I'm Excited About
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,docker,aws,mysql,python,git,github"/>
-
-</div>
-
----
-
-# 🏁 Mission
-
-> Build software that solves real-world problems, continuously improve technical skills, contribute to open source, and grow into a professional Software Engineer creating impactful products.
-
----
-# 🎨 UI / UX Design Philosophy
-
-<div align="center">
-
-```text
-👤 User First
-      │
-      ▼
-🔍 Research
-      │
-      ▼
-✏ Wireframe
-      │
-      ▼
-🎨 Prototype
-      │
-      ▼
-🧪 Testing
-      │
-      ▼
-🚀 Launch
-```
-
-</div>
-
----
-
-# 📚 Core Computer Science Knowledge
-
-<div align="center">
-
-| Subject | Status |
-|:--------|:------:|
-| Data Structures | ✅ |
-| Algorithms | ✅ |
-| Object Oriented Programming | ✅ |
-| Operating Systems | ✅ |
-| Database Management System | ✅ |
-| Computer Networks | ✅ |
-| Software Engineering | ✅ |
-| Artificial Intelligence | ✅ |
-
-</div>
-
----
-
-# 🚀 What I Can Build
-
-<div align="center">
-
-✅ Responsive Websites
-
-✅ REST APIs
-
-✅ AI Applications
-
-✅ Full Stack Web Apps
-
-✅ Database Driven Systems
-
-✅ Java Applications
-
-✅ Flask Applications
-
-✅ UI/UX Designs
-
-</div>
-
----
-
-# ⚙ Development Lifecycle
-
-```text
-Requirement Analysis
-          │
-          ▼
-Planning
-          │
-          ▼
-Design
-          │
-          ▼
-Development
-          │
-          ▼
-Testing
-          │
-          ▼
-Deployment
-          │
-          ▼
-Maintenance
-```
-
----
-
-# 📌 Software Engineering Skills
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/System_Design-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/API_Development-10B981?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Problem_Solving-F97316?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Database_Design-9333EA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Clean_Code-0EA5E9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Object_Oriented_Programming-DC2626?style=for-the-badge"/>
-
-</div>
-
----
-
-# 📅 Weekly Coding Routine
-
-| Day | Activity |
-|------|----------|
-| Monday | Java Development |
-| Tuesday | DSA Practice |
-| Wednesday | AI & Machine Learning |
-| Thursday | Full Stack Project |
-| Friday | SQL & Backend |
-| Saturday | Open Source Contribution |
-| Sunday | Portfolio & GitHub Updates |
-
----
-
-# 📊 My Coding Mindset
-
-```text
-Think
-  │
-  ▼
-Analyze
-  │
-  ▼
-Design
-  │
-  ▼
-Code
-  │
-  ▼
-Debug
-  │
-  ▼
-Optimize
-  │
-  ▼
-Deploy
-```
-
----
-
-# 💬 Favorite Quote
-
-<div align="center">
-
-## 💙
-
-### *"Every expert was once a beginner. Every professional was once a student. Keep learning. Keep building."*
-
-</div>
-
----
 
 # 🌟 Technologies I Want To Master
 
