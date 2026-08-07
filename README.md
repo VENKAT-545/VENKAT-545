@@ -868,11 +868,10 @@ If you like my projects,
 
 ---
 
-# 💙 Thanks For Visiting
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=150&section=footer&text=Thanks%20For%20Visiting!&fontSize=35&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=150&section=footer&text=Thanks%20For%20Visiting!!💙&fontSize=35&fontColor=ffffff"/>
 
 ### ⭐️ From [Venkatajalapathi S](https://github.com/VENKAT-545)
 
