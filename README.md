@@ -487,6 +487,23 @@ AI-based forensic system that identifies scanner devices from scanned document i
 
 ---
 
+# 📊 GitHub Statistics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VENKAT-545&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VENKAT-545&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=VENKAT-545&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -507,26 +524,18 @@ AI-based forensic system that identifies scanner devices from scanned document i
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Trophies
 
-<p align="center">
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VENKAT-545&theme=github-compact&hide_border=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=VENKAT-545&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
 </div>
-
-</p>
-
 
 ---
 
 # 📈 Contribution Graph
 
 <div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VENKAT-545&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VENKAT-545&theme=tokyo-night&area=true&hide_border=true"/>
 </div>
 
 ---
