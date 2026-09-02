@@ -443,7 +443,7 @@ AI-based forensic system that identifies scanner devices from scanned document i
 | 🥇 First Prize - Paper Presentation | Muthayammal College of Engineering |
 | 🥈 Second Runner-Up - IPL Showdown Quiz | IIM Rohtak |
 | ⭐ BizWiz Quiz (Score 9.17) | NALSAR University |
-| 🏅 AIR 24 - National Case Event | IIT Bombay |
+| 🏅 AIR 24 - National Entrepreneurship Challenge | IIT Bombay |
 
 </div>
 
