@@ -506,19 +506,24 @@ AI-based forensic system that identifies scanner devices from scanned document i
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VENKAT-545&theme=onedark&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VENKAT-545&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Calendar
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VENKAT-545&theme=react-dark&bg_color=0D1117&hide_border=true&line=00E7FF&point=FFFFFF&area=true" />
-</p>
+<div align="center">
+
+![GitHub Contribution Grid](https://ghchart.rshah.org/58a6ff/VENKAT-545)
+
+</div>
+
 ---
 
 # 📋 GitHub Summary
@@ -548,15 +553,15 @@ AI-based forensic system that identifies scanner devices from scanned document i
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VENKAT-545&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
----
 
-# 🐍 Contribution Snake
-<div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VENKAT-545/VENKAT-545/output/github-contribution-grid-snake-dark.svg" />
-</p>
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/VENKAT-545/VENKAT-545/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
 ---
 
 # 🌱 Currently Learning
